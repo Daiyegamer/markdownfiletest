@@ -4,7 +4,7 @@
 [Projects](/Projects.md)
 
 ## About me
-<img src="./<img src=./AdilAvatar.jfif" width=100> 
+<img src="./<img src=./AdilAvatar.jpeg" width=100> 
 
 ### Education   
 > Dubai Aviation College (Aerospace Engineering)  
